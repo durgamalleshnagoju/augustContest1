@@ -1,0 +1,40 @@
+
+h2{
+    color: #000;
+    font-family: Inter;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+
+}
+
+section{
+    padding: 20px;
+}
+.about{
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px;
+}
+p,li,a{
+    font-size: 30px;
+}
+a{
+    color: #000;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+img{
+    width: 60%;
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
